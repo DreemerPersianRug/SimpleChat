@@ -1,8 +1,3 @@
-  ___  ____  ____  
-(  _ \(  _ \(  _ \
- )___/ )   / )(_) )
-(__)  (_)\_)(____/
-
 Created by PR&DTeam. 
 Sorry, we don't know English =) (we tried hard)
 Beta version 0.1
@@ -14,8 +9,4 @@ For assembly:
   2. Run the command: make
 Complete!
 
-For to run:
-  Server:
-    ./server
-  Client:
-    ./client
+For to run: server (./server), client (./client)
